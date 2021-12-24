@@ -13,3 +13,7 @@ https://docs.docker.com/compose/install/
 
 ### Reload
 `make reload`
+
+### Info
+mysql port: 3308
+to visit phpmyadmin http://localhost:8081/
